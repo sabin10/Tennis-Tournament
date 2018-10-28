@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1515678667 source:c:\users\sabi\desktop\tenis\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"structuri.h"
+	"enum.h"
+	"functii.h"
+
+1515673078 c:\users\sabi\desktop\tenis\structuri.h
+
+1515680495 c:\users\sabi\desktop\tenis\functii.h
+
+1515666408 c:\users\sabi\desktop\tenis\enum.h
+
+1515682267 source:c:\users\sabi\desktop\projects\c - 1st sem\tenis\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"structuri.h"
+	"enum.h"
+	"functii.h"
+
+1515676678 c:\users\sabi\desktop\projects\c - 1st sem\tenis\structuri.h
+
+1515670008 c:\users\sabi\desktop\projects\c - 1st sem\tenis\enum.h
+
+1515684095 c:\users\sabi\desktop\projects\c - 1st sem\tenis\functii.h
+
+1515678667 source:c:\users\sabin\desktop\tennis\tennis\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"structuri.h"
+	"enum.h"
+	"functii.h"
+
+1515673078 c:\users\sabin\desktop\tennis\tennis\structuri.h
+
+1515666408 c:\users\sabin\desktop\tennis\tennis\enum.h
+
+1515680495 c:\users\sabin\desktop\tennis\tennis\functii.h
+

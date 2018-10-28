@@ -1,0 +1,142 @@
+RUNDA 1 - PRELIMINARII TURUL 3
+Nadal-Thompson:	set1:6-3 set2:6-4 ->Scor meci:2-0
+Federer-Elias:	set1:5-6 set2:6-5 set3:6-3 ->Scor meci:2-1
+Thiem-Jarry:	set1:6-5 set2:4-6 set3:6-3 ->Scor meci:2-1
+Goffin-Copil:	set1:6-3 set2:4-6 set3:6-3 ->Scor meci:2-1
+Wawrinka-Tipsarevic:	set1:6-5 set2:6-1 ->Scor meci:2-0
+Potro-Bautista:	set1:5-6 set2:4-6 ->Scor meci:0-2
+Anderson-Florian:	set1:6-3 set2:3-6 set3:4-6 ->Scor meci:1-2
+Tsonga-Nishikori:	set1:4-6 set2:4-6 ->Scor meci:0-2
+Murray-Querrey:	set1:3-6 set2:6-3 set3:6-4 ->Scor meci:2-1
+Isner-Fabbiano:	set1:5-6 set2:4-6 ->Scor meci:0-2
+Pouille-Donskoy:	set1:6-2 set2:6-3 ->Scor meci:2-0
+Berdych-Jaziri:	set1:2-6 set2:2-6 ->Scor meci:0-2
+Kyrgios-Sousa:	set1:5-6 set2:5-6 ->Scor meci:0-2
+Ramos-Kukushkin:	set1:6-5 set2:5-6 set3:6-5 ->Scor meci:2-1
+Raonic-Tsitsipas:	set1:6-2 set2:4-6 set3:4-6 ->Scor meci:1-2
+Muller-Simon:	set1:4-6 set2:2-6 ->Scor meci:0-2
+Scwartzman-Kohlschreiber:	set1:6-4 set2:6-1 ->Scor meci:2-0
+Fognini-Carreno:	set1:6-5 set2:6-2 ->Scor meci:2-0
+Dzumhur-Vesely:	set1:6-4 set2:5-6 set3:6-5 ->Scor meci:2-1
+Cuevas-Dimitrov:	set1:3-6 set2:5-6 ->Scor meci:0-2
+Zverev-Silva:	set1:6-3 set2:4-6 set3:6-2 ->Scor meci:2-1
+Krajinovic-Djokovic:	set1:3-6 set2:4-6 ->Scor meci:0-2
+Verdasco-Gasquet:	set1:6-4 set2:4-6 set3:4-6 ->Scor meci:1-2
+Lopez-Harrison:	set1:3-6 set2:4-6 ->Scor meci:0-2
+Dolgopolov-Fratangelo:	set1:6-5 set2:5-6 set3:6-5 ->Scor meci:2-1
+Rublev-Edmund:	set1:6-2 set2:6-5 ->Scor meci:2-0
+Sugita-Paire:	set1:2-6 set2:6-1 set3:5-6 ->Scor meci:1-2
+Haase-Zverev:	set1:6-4 set2:2-6 set3:6-1 ->Scor meci:2-1
+Lorenzi-Ebden:	set1:6-3 set2:6-4 ->Scor meci:2-0
+Khachanov-Bhambri:	set1:6-3 set2:6-3 ->Scor meci:2-0
+Monfils-Pella:	set1:4-6 set2:6-5 set3:6-5 ->Scor meci:2-1
+Coric-Johnson:	set1:6-5 set2:6-2 ->Scor meci:2-0
+Bedene-Lacko:	set1:2-6 set2:6-4 set3:4-6 ->Scor meci:1-2
+Mayer-Shapovalov:	set1:5-6 set2:6-3 set3:6-5 ->Scor meci:2-1
+Struff-Mannariono:	set1:4-6 set2:6-3 set3:6-1 ->Scor meci:2-1
+Donaldson-Herbert:	set1:6-2 set2:6-2 ->Scor meci:2-0
+Troicki-Bellucci:	set1:4-6 set2:4-6 ->Scor meci:0-2
+Benneteau-Sock:	set1:6-3 set2:4-6 set3:6-5 ->Scor meci:2-1
+Chung-Zeballos:	set1:6-3 set2:3-6 set3:6-2 ->Scor meci:2-1
+Basilashvili-Ferrer:	set1:3-6 set2:6-5 set3:3-6 ->Scor meci:1-2
+Gojowczyk-Cilic:	set1:3-6 set2:6-5 set3:6-5 ->Scor meci:2-1
+Young-Stebe:	set1:4-6 set2:4-6 ->Scor meci:0-2
+Istomin-Millman:	set1:3-6 set2:4-6 ->Scor meci:0-2
+Medvedev-Maceiras:	set1:6-3 set2:4-6 set3:6-3 ->Scor meci:2-1
+Sela-Sousa:	set1:6-1 set2:6-0 ->Scor meci:2-0
+Delbonis-Brown:	set1:5-6 set2:6-5 set3:6-5 ->Scor meci:2-1
+Garcia-Lopez-Monteiro:	set1:5-6 set2:2-6 ->Scor meci:0-2
+Lu-Janowicz:	set1:2-6 set2:6-5 set3:6-4 ->Scor meci:2-1
+Lajovic-Stakhovsky:	set1:6-1 set2:6-3 ->Scor meci:2-0
+Darcis-Laaksonen:	set1:4-6 set2:6-3 set3:3-6 ->Scor meci:1-2
+Chardy-Escobedo:	set1:6-2 set2:6-3 ->Scor meci:2-0
+Tiafoe-Hanfmann:	set1:4-6 set2:6-4 set3:6-5 ->Scor meci:2-1
+Karlovic-Bemelmans:	set1:6-5 set2:6-5 ->Scor meci:2-0
+Burgos-Bublik:	set1:4-6 set2:6-5 set3:4-6 ->Scor meci:1-2
+Youzhny-Norrie:	set1:5-6 set2:6-4 set3:6-5 ->Scor meci:2-1
+Fucsovics-Berlocq:	set1:4-6 set2:4-6 ->Scor meci:0-2
+Seppi-Cecchinato:	set1:6-3 set2:6-3 ->Scor meci:2-0
+Albot-Pospisil:	set1:6-3 set2:4-6 set3:2-6 ->Scor meci:1-2
+Djere-Kuznetsov:	set1:5-6 set2:5-6 ->Scor meci:0-2
+Marterer-Baena:	set1:1-6 set2:6-5 set3:2-6 ->Scor meci:1-2
+Kicker-Fritz:	set1:6-2 set2:6-3 ->Scor meci:2-0
+Sandgren-Mahut:	set1:6-3 set2:5-6 set3:6-5 ->Scor meci:2-1
+Kavcic-Baghdatis:	set1:6-3 set2:2-6 set3:4-6 ->Scor meci:1-2
+Daniel-Melzer:	set1:6-3 set2:4-6 set3:4-6 ->Scor meci:1-2
+----------
+RUNDA 2 - PRELIMINARII TURUL 2
+Nadal-Melzer:	set1:6-3 set2:6-5 ->Scor meci:2-0
+Federer-Baghdatis:	set1:5-6 set2:4-6 ->Scor meci:0-2
+Thiem-Sandgren:	set1:6-3 set2:6-3 ->Scor meci:2-0
+Goffin-Kicker:	set1:6-5 set2:5-6 set3:5-6 ->Scor meci:1-2
+Wawrinka-Baena:	set1:4-6 set2:6-4 set3:4-6 ->Scor meci:1-2
+Bautista-Kuznetsov:	set1:4-6 set2:6-5 set3:6-3 ->Scor meci:2-1
+Florian-Pospisil:	set1:6-5 set2:4-6 set3:6-4 ->Scor meci:2-1
+Nishikori-Seppi:	set1:4-6 set2:2-6 ->Scor meci:0-2
+Murray-Berlocq:	set1:6-5 set2:6-1 ->Scor meci:2-0
+Fabbiano-Youzhny:	set1:6-1 set2:5-6 set3:6-5 ->Scor meci:2-1
+Pouille-Bublik:	set1:6-4 set2:6-3 ->Scor meci:2-0
+Jaziri-Karlovic:	set1:6-3 set2:6-3 ->Scor meci:2-0
+Sousa-Tiafoe:	set1:6-3 set2:4-6 set3:6-5 ->Scor meci:2-1
+Ramos-Chardy:	set1:6-5 set2:4-6 set3:6-5 ->Scor meci:2-1
+Tsitsipas-Laaksonen:	set1:4-6 set2:6-5 set3:2-6 ->Scor meci:1-2
+Simon-Lajovic:	set1:6-5 set2:4-6 set3:6-4 ->Scor meci:2-1
+Scwartzman-Lu:	set1:6-3 set2:4-6 set3:6-5 ->Scor meci:2-1
+Fognini-Monteiro:	set1:6-3 set2:6-4 ->Scor meci:2-0
+Dzumhur-Delbonis:	set1:6-3 set2:4-6 set3:6-3 ->Scor meci:2-1
+Dimitrov-Sela:	set1:6-5 set2:3-6 set3:4-6 ->Scor meci:1-2
+Zverev-Medvedev:	set1:4-6 set2:5-6 ->Scor meci:0-2
+Djokovic-Millman:	set1:6-5 set2:6-3 ->Scor meci:2-0
+Gasquet-Stebe:	set1:6-3 set2:6-3 ->Scor meci:2-0
+Harrison-Gojowczyk:	set1:2-6 set2:6-4 set3:4-6 ->Scor meci:1-2
+Dolgopolov-Ferrer:	set1:4-6 set2:2-6 ->Scor meci:0-2
+Rublev-Chung:	set1:4-6 set2:2-6 ->Scor meci:0-2
+Paire-Benneteau:	set1:4-6 set2:6-5 set3:6-1 ->Scor meci:2-1
+Haase-Bellucci:	set1:4-6 set2:6-4 set3:6-5 ->Scor meci:2-1
+Lorenzi-Donaldson:	set1:6-3 set2:4-6 set3:6-3 ->Scor meci:2-1
+Khachanov-Struff:	set1:4-6 set2:6-4 set3:4-6 ->Scor meci:1-2
+Monfils-Mayer:	set1:6-5 set2:6-3 ->Scor meci:2-0
+Coric-Lacko:	set1:6-5 set2:4-6 set3:6-3 ->Scor meci:2-1
+----------
+RUNDA 3 - PRELIMINARII TURUL 1
+Nadal-Coric:	set1:6-3 set2:6-2 ->Scor meci:2-0
+Baghdatis-Monfils:	set1:6-3 set2:4-6 set3:2-6 ->Scor meci:1-2
+Thiem-Struff:	set1:6-5 set2:5-6 set3:6-3 ->Scor meci:2-1
+Kicker-Lorenzi:	set1:6-5 set2:4-6 set3:6-3 ->Scor meci:2-1
+Baena-Haase:	set1:6-3 set2:6-3 ->Scor meci:2-0
+Bautista-Paire:	set1:3-6 set2:6-2 set3:6-5 ->Scor meci:2-1
+Florian-Chung:	set1:2-6 set2:2-6 ->Scor meci:0-2
+Seppi-Ferrer:	set1:4-6 set2:3-6 ->Scor meci:0-2
+Murray-Gojowczyk:	set1:3-6 set2:6-5 set3:6-1 ->Scor meci:2-1
+Fabbiano-Gasquet:	set1:6-3 set2:3-6 set3:4-6 ->Scor meci:1-2
+Pouille-Djokovic:	set1:5-6 set2:3-6 ->Scor meci:0-2
+Jaziri-Medvedev:	set1:2-6 set2:6-4 set3:4-6 ->Scor meci:1-2
+Sousa-Sela:	set1:6-5 set2:4-6 set3:4-6 ->Scor meci:1-2
+Ramos-Dzumhur:	set1:6-3 set2:4-6 set3:4-6 ->Scor meci:1-2
+Laaksonen-Fognini:	set1:6-5 set2:5-6 set3:2-6 ->Scor meci:1-2
+Simon-Scwartzman:	set1:6-2 set2:4-6 set3:6-4 ->Scor meci:2-1
+----------
+RUNDA 4 - OPTIMI
+Nadal-Simon:	set1:6-4 set2:4-6 set3:6-2 ->Scor meci:2-1
+Monfils-Fognini:	set1:6-5 set2:6-3 ->Scor meci:2-0
+Thiem-Dzumhur:	set1:5-6 set2:4-6 ->Scor meci:0-2
+Kicker-Sela:	set1:6-5 set2:4-6 set3:4-6 ->Scor meci:1-2
+Baena-Medvedev:	set1:6-5 set2:6-3 ->Scor meci:2-0
+Bautista-Djokovic:	set1:5-6 set2:6-4 set3:4-6 ->Scor meci:1-2
+Chung-Gasquet:	set1:3-6 set2:4-6 ->Scor meci:0-2
+Ferrer-Murray:	set1:4-6 set2:6-5 set3:6-4 ->Scor meci:2-1
+----------
+RUNDA 5 - SFERTURI
+Nadal-Ferrer:	set1:6-5 set2:6-1 ->Scor meci:2-0
+Monfils-Gasquet:	set1:6-3 set2:4-6 set3:4-6 ->Scor meci:1-2
+Dzumhur-Djokovic:	set1:4-6 set2:3-6 ->Scor meci:0-2
+Sela-Baena:	set1:6-2 set2:6-5 ->Scor meci:2-0
+----------
+RUNDA 6 - SEMIFINALE
+Nadal-Sela:	set1:6-2 set2:6-3 ->Scor meci:2-0
+Gasquet-Djokovic:	set1:6-5 set2:4-6 set3:6-3 ->Scor meci:2-1
+----------
+RUNDA 7 - FINALA
+Nadal-Gasquet:	set1:5-6 set2:5-6 ->Scor meci:0-2
+Castigatorul turneului este Gasquet
+----------
