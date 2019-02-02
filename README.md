@@ -1,1 +1,3 @@
-# Predict Tennis Tournament
+## Predict Tennis Tournament
+
+tenisfile.txt -> stats for 128 players
